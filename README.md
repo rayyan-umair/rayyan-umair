@@ -6,11 +6,9 @@ GRC and Cybersecurity. Security Architecture in progress.
 
 ```
 LOCATION       Greater Toronto Area, Canada
-STATUS         Active, open to roles
-STUDYING       B.Sc., Computer and Information Systems Security, Ontario Tech University
-CERTIFIED      Security+, Network+, CySA+ (in progress),
-               Google Cybersecurity, ITIL Foundation
-FOCUS          AI Governance and Risk. Accountability in Systems.
+STUDYING       Computer and Information Systems Security & Governance
+CERTIFIED      Security+, Network+, CySA+ (in progress), Google Cybersecurity, ITIL Foundation
+FOCUS          Cybersecurity & AI | Governance, Risk & Compliance
 ```
 
 ---
