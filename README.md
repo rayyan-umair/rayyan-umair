@@ -7,7 +7,7 @@ GRC and Cybersecurity. Security Architecture in progress.
 ```
 LOCATION       Greater Toronto Area, Canada
 STATUS         Active, open to roles
-STUDYING       B.IT (Information Security), Ontario Tech University
+STUDYING       B.Sc., Computer and Information Systems Security, Ontario Tech University
 CERTIFIED      Security+, Network+, CySA+ (in progress),
                Google Cybersecurity, ITIL Foundation
 FOCUS          AI Governance and Risk. Accountability in Systems.
@@ -17,14 +17,14 @@ FOCUS          AI Governance and Risk. Accountability in Systems.
 
 ## Core Competencies
 
-`SIEM Monitoring` `Incident Response` `Vulnerability Management` `Risk Assessment & Audit` `MITRE ATT&CK` `Identity & Access Management` `Endpoint Hardening` `Network Traffic Analysis` `Penetration Testing` `Security Automation`
+`Governance, Risk & Compliance (GRC)` `ITIL Service Operations` `Risk Management` `Incident Management & Escalation` `MITRE ATT&CK` `ISO 27001` `Information Security` `Cybersecurity Awareness` `Networking Fundamentals` `IT Support & Troubleshooting`
 
 ---
 
 ## Languages & Tools
 
 **Languages**
-`Python` `Go` `PowerShell` `Bash` `JavaScript` `HTML` `CSS`
+`Python` `Go` `SQL` `PowerShell` `Bash` `JavaScript` `HTML` `CSS`
 
 **Security & Monitoring**
 `Splunk` `Microsoft Sentinel` `Nessus` `Nmap` `Burp Suite` `Wireshark` `Kali Linux`
